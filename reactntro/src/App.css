@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+button{
+  margin-left:1%;
+  width:5%;
+  height:29px;
+  border: none;
+  background-color:#388e3c;
+  color:#fff;
+}
+
+.form-control{
+  width: 50%;
+  height:20px;
+}
+
+.todo {
+  color: red;
+}
+
+.list {
+  margin-top:0.5%;
+  font-size: 30px;
+  font-weight: 500;
+}
